@@ -20,7 +20,7 @@ sites:
     url: http://app.watchub.pw
 
 status-website:
-  cname: status.carlosbecker.com
+  cname: status.carlosbecker.dev
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   introTitle: "Status Page for several sites run by @caarlos0."
