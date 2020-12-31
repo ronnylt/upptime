@@ -23,8 +23,8 @@ status-website:
   cname: status.carlosbecker.dev
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
-  introTitle: "Status Page for several sites run by @caarlos0."
-  introMessage: noop
+  introTitle: Status
+  introMessage: Status Page for several sites run by @caarlos0.
   navbar:
     - title: Status
       href: /
